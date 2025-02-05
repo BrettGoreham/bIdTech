@@ -1,4 +1,4 @@
-package bankid.techinterview;
+package bankid.techinterview.models;
 
 public class Product {
 

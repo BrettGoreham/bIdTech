@@ -1,8 +1,8 @@
-package bankid.techinterview;
+package bankid.techinterview.models;
 
-public class GetPriceResponse {
+public class CheckoutResponse {
 
-    public GetPriceResponse(double price) {
+    public CheckoutResponse(double price) {
         this.price = price;
     }
     public double price;
