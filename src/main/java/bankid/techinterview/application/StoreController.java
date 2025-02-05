@@ -1,8 +1,7 @@
-package bankid.techinterview;
+package bankid.techinterview.application;
 
 import bankid.techinterview.models.CheckoutResponse;
 import bankid.techinterview.services.ProductsService;
-import org.springframework.http.HttpStatusCode;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.PostMapping;
