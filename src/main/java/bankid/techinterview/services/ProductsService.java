@@ -1,6 +1,6 @@
 package bankid.techinterview.services;
 
-import bankid.techinterview.models.Product;
+import bankid.techinterview.services.models.Product;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

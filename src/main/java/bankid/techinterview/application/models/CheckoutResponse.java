@@ -1,4 +1,4 @@
-package bankid.techinterview.models;
+package bankid.techinterview.application.models;
 
 public class CheckoutResponse {
 

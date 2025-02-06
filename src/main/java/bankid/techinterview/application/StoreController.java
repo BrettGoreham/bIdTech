@@ -1,6 +1,6 @@
 package bankid.techinterview.application;
 
-import bankid.techinterview.models.CheckoutResponse;
+import bankid.techinterview.application.models.CheckoutResponse;
 import bankid.techinterview.services.ProductsService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ExceptionHandler;
